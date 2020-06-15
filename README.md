@@ -4,6 +4,7 @@ My first project, built with HTML, CSS and JavaScript ES5. Budget app accepts nu
 
 
 ### See Website: https://budgety-app-aleksey.netlify.app/
+<img src="budgety.png" width="800">
 
 
 
