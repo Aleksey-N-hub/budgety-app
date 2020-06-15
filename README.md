@@ -2,6 +2,8 @@
 
 My first project, built with HTML, CSS and JavaScript ES5. Budget app accepts number elements of **income** and **expense** types. Then automatically calculates **total budget**. Simple as that :)
 
+### See Website: https://budgety-app-aleksey.netlify.app/
+
 
 ## How to use
 
